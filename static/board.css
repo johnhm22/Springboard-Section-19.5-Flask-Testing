@@ -1,0 +1,31 @@
+/* some colors you may find useful:
+  #115ff4
+  #060ce9
+  #28a200
+  #8d2ab5
+  #74119c
+*/
+
+table {
+  margin: 2rem;
+}
+
+
+
+/* p {
+    background-color: turquoise;
+} */
+
+td {
+  padding: 1rem;
+  border: 2px solid black;
+  margin: 0px;
+}
+
+/* button{
+  margin: 0.5rem;
+  padding: 0.5rem;
+} */
+
+
+
